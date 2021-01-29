@@ -1,0 +1,2 @@
+# SampleKitPlugin
+ Example Spigot Plugin

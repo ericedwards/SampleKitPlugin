@@ -1,0 +1,10 @@
+name: SampleKitPlugin
+version: 1.0-SNAPSHOT
+author: Eric Edwards
+main: io.github.ericedwards.SampleKitPlugin.SampleKitPlugin
+api-version: 1.16
+commands:
+  kit:
+    description: Give a player a starting kit
+    usage: /<command>
+    permission: samplekitplugin.samplekitpluginpermission
